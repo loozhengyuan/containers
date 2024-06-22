@@ -1,5 +1,7 @@
 # `containers`
 
+[![ci](https://github.com/loozhengyuan/containers/actions/workflows/ci.yml/badge.svg)](https://github.com/loozhengyuan/containers/actions/workflows/ci.yml)
+
 Source repository for custom container images.
 
 ## Images
